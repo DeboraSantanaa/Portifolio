@@ -1,0 +1,16 @@
+.Menu {
+    background-color: #252525;
+    padding: 0.5px;
+  }
+  
+  .navLi {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    font-size: 19px;
+  }
+
+  .logo_img img {
+    width: 4.8rem;
+    height: 4.3rem;
+  }

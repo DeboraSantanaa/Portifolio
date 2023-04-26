@@ -1,0 +1,47 @@
+.about_section {
+  background-color: rgb(255, 255, 255);
+  padding-top: 80px;
+  min-height: calc(100vh - 80px - 20px); 
+  display: flex;
+  flex-direction: column;
+  }
+  
+  .foto {
+    background-image: url('../../assets/img/Debora.jpg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 470px; 
+
+  }
+
+  
+  .about_text h1 {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: Lobster;
+
+  }
+  
+  .about_text p {
+    font-size: 20px;
+    text-align: justify;
+
+  }
+
+  @media screen and (max-width: 768px){
+    .about_section {
+        margin-top: -70px;
+    }
+    .foto{
+     height: 270px;
+    }
+     .about_text p{
+      font-size: 15px;
+    }
+    .about_text h1 {
+      font-size: 25px;
+      text-align: center;
+      margin-top: 10px;
+    }
+}

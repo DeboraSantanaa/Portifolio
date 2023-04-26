@@ -1,0 +1,26 @@
+.loader_container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .spinner {
+    font-size: 15rem;
+   color:#8540ce;
+   margin-left: 2px;
+  }
+  .spinner2 {
+    font-size: 15rem;
+   color:#ec6ccc;
+   margin-left: 2px;
+  }
+  .spinner3 {
+    font-size: 15rem;
+   color:#8540ce;
+   margin-left: 2px;
+  }

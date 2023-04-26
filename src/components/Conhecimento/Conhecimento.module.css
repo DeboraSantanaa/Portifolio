@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two:wght@700&display=swap');
+
+.titulo{
+    text-align: center;
+    font-family: Lobster;
+}
+
+.icon_conhe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 50px;
+    color: #8540ce;
+    cursor: pointer;
+  }
+  
+  .icon_conhe h3 {
+    margin-right: 10px;
+  }
+  
+  .icon_conhe svg {
+    margin: 10px;
+  }
