@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=8540CE&width=435&lines=Portf%C3%B3lio)](https://git.io/typing-svg)
 
+![Captura de tela 2023-04-26 205335](https://user-images.githubusercontent.com/113525688/234726698-80f76928-d6fb-4acd-a20a-7604719394f9.png)
+
+</br>
+</br>
+
 
 ## Descrição
 Este é o meu portfólio pessoal, ele foi criado utilizando o framework React. </br>
@@ -27,6 +32,7 @@ Inicie o servidor local executando o comando:</br>
 npm run start
 
 </br></br>
+
 
 ## Autor
 | [<img src="https://avatars.githubusercontent.com/u/113525688?v=4" width=115><br><sub>Débora Santana</sub>](https://github.com/DeboraSantanaa)
