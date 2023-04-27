@@ -26,13 +26,14 @@ Este projeto foi criado como um meio de apresentação pessoal,</br> além de se
 2. Caso esteja utilizando o XAMPP dê Start no Apache e Mysql </br>
 3. Instale as dependências do projeto usando o gerenciador de pacotes do npm. 
 </br></br>
+
 No terminal, execute o comando:</br>
 ![Captura de tela 2023-04-26 210210](https://user-images.githubusercontent.com/113525688/234727603-e52e9355-1d76-45d7-9a12-15f07d266b88.png)
 
 </br>
 4. Inicie o servidor local executando o comando:</br>
 
-![Captura de tela 2023-04-26 210149](https://user-images.githubusercontent.com/113525688/234727642-67fa4ee4-c2da-4d55-9c5a-6047eb275357.png)
+ ![Captura de tela 2023-04-26 210149](https://user-images.githubusercontent.com/113525688/234727642-67fa4ee4-c2da-4d55-9c5a-6047eb275357.png)
 
 5. Abra seu navegador e acesse o endereço localhost.
 </br></br>
