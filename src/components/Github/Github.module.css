@@ -6,6 +6,7 @@
     position: relative; 
 }
 
+  /* DESENVOLVIDO POR DEBORA SANTANA */
 .github_container::after{
   content: '';
  position: absolute;
@@ -40,7 +41,7 @@
   justify-content: space-between;
   z-index: 10;
 }
-
+  /* DESENVOLVIDO POR DEBORA SANTANA */
 .github_card {
   background-color: #f8f9fa;
   border-radius: 5px;
