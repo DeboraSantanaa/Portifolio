@@ -13,6 +13,10 @@ Ele apresenta meus projetos, habilidades e informações de contato. </br>
 Este projeto foi criado como um meio de apresentação pessoal,</br> além de ser capaz de mostrar a minha evolução desde o meu primeiro Portfólio criado..</br>
 <br><br>
 
+### Deploy do Projeto </br>
+https://portfoliodebora.vercel.app/
+<br><br>
+
 ## 🛠️ Ferramentas utilizadas 
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a> 
